@@ -1,0 +1,1 @@
+“Built an interactive information hub that makes discovering topics across tech, trading, AI, and coding simple and engaging.”Built a compact, interactive web prototype that turns data into a clean, navigable info hub — focused on clear UX, modular JavaScript, and easy content updates."
